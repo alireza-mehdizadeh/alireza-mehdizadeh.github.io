@@ -1,4 +1,3 @@
-````md
 # Domain Redirect
 
 This page is a simple redirect page for the website's new domain.
@@ -36,6 +35,3 @@ Everything is contained in a single HTML file with no external dependencies.
 Visit the new website:
 
 https://byalireza.ir
-
-```
-```
